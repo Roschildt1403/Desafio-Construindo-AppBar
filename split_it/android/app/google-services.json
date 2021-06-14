@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "337981012120",
+    "project_id": "split-it-rocket",
+    "storage_bucket": "split-it-rocket.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337981012120:android:5db9de798eca2913dcb8ed",
+        "android_client_info": {
+          "package_name": "com.example.charrasco_compartilhado"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337981012120-6vd3nudnrlmpfcvkeh5n9iemij025o1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB85cbeNR7O4oerh08YfBq2hEwF7Mv7HNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337981012120-6vd3nudnrlmpfcvkeh5n9iemij025o1j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "337981012120-2ckdh8f4tr0rpriot0vpdat7bdv431gu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.charrascoCompartilhado"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
